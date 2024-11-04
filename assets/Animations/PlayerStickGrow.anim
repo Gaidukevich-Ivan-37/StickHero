@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "PlayerStickGrowth",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6666666666666666,
+  "sample": 15,
+  "speed": 2,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "39e4568c-6e01-43c3-a85d-94a5393b9ba8"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "6dbfd9fb-1405-4a63-8305-892835f3c52e"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "0f1fb69d-1203-4c07-a5e7-8a973db1a539"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "6dbfd9fb-1405-4a63-8305-892835f3c52e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
